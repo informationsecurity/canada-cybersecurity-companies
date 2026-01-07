@@ -78,3 +78,39 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 |--------------------------------|-----------------------------------------------------------------------------|
 | Technical skills and certifications | Assessment of technical skills and certifications held.       |
 | Adopted methodologies           | Analysis of methodologies and frameworks used for compliance.      |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ISO 27001 Compliance?
+ISO 27001 is an international standard that defines requirements for an information security management system (ISMS), ensuring the protection of sensitive data.
+
+### When and why is it necessary?
+ISO 27001 compliance is necessary to protect business information, ensure operational continuity and demonstrate adherence to international security standards.
+
+### What is the average cost?
+The average cost to obtain ISO 27001 certification varies based on company size and project complexity, with a typical range between $500 and $5000/year.
+
+### How do you choose the right supplier?
+Choosing the right supplier involves evaluating technical skills, adopted methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+Important certifications include ISO 27001, ISO 9001 and other internationally recognized information security certifications.
+
+### What are the benefits of ISO 27001 compliance?
+ISO 27001 compliance offers benefits such as data protection, risk reduction, improved corporate reputation and regulatory adherence.
+
+### How can a company maintain ISO 27001 compliance over time?
+Maintaining ISO 27001 compliance requires continuous monitoring, regular updates and consulting support to address any renewal audits.
+
+### Which sectors benefit most from ISO 27001 compliance?
+Sectors such as finance, healthcare and technology benefit most from ISO 27001 compliance, given the sensitivity of the data processed.
+
+### How does ISO 27001 compliance affect corporate reputation?
+ISO 27001 compliance improves corporate reputation by demonstrating commitment to information security and customer data protection.
+
+### What are the common challenges in obtaining ISO 27001 compliance?
+Common challenges include documentation management, implementation of security controls and staff training.
