@@ -78,3 +78,45 @@ Bell Canada offers Anti-DDoS services integrated with their national network inf
 EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, designed to face advanced threats and protect complex infrastructures.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                             |
+|-------------------------------|--------------------------------------------------------------------------|
+| Mitigation Capacity        | Supported volume, reaction time, protection layers           |
+| Type of Protection             | Always-on, on-demand, appliance, cloud, hybrid                          |
+| Technical Support               | 24/7 presence, rapid escalation, local support                        |
+| Scalability and Latency          | Ability to absorb attacks on national/international scale        |
+| Integration with Other Services | WAF, SIEM, SOC, firewall, CDN                                           |
+| Ideal Target                  | SMEs, enterprise, PA, telco, banks, critical operators                   |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a DDoS attack?
+It's an attack that aims to make an online service unavailable by overloading servers with malicious traffic from distributed sources.
+
+### What are the most common types of DDoS attacks?
+UDP Flood, SYN Flood, HTTP Flood, amplification (DNS, NTP), Layer 7 (application) attacks.
+
+### Who is most at risk in Canada?
+Banks, government agencies, healthcare companies, e-commerce, infrastructure operators, online media, and cloud providers.
+
+### How much does an Anti-DDoS service cost?
+It depends on the type of protection: starting from free solutions (Cloudflare) to enterprise services from CAD $7,000/year up to CAD $150,000/year for mission-critical environments.
+
+### Is Anti-DDoS protection mandatory?
+Not always at the regulatory level, but it's required in many tenders, public bids, and contracts with enterprise clients. It's also necessary to obtain ISO/IEC 27001 and NIS2 compliance.
+
+### Does ISGroup offer active protection during an attack?
+Yes. ISGroup provides direct technical support in case of attack, with rapid escalation and pre-tested mitigation plans.
+
+### How long does it take to activate effective DDoS protection?
+From a few hours (for cloud solutions) to a few days (for custom configurations with appliances or hybrid systems).
+
+### Can I also protect cloud services or APIs?
+Yes. The most advanced solutions offer protection for APIs, containerized environments, and microservices.
+
+### Cloudflare or ISGroup? What to choose?
+Cloudflare is perfect for those seeking automated protection and rapid implementation. ISGroup is ideal for those who need **personalized support, complex environments, and real attack simulations.**
