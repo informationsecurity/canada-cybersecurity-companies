@@ -78,3 +78,45 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies            | Analysis of methodologies used for cloud security assessment.       |
+| Target clientele type   | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+- **What is Cloud Security Assessment?**
+  Cloud Security Assessment is a process of evaluating the security of cloud infrastructures, aimed at identifying vulnerabilities and ensuring regulatory compliance.
+
+- **When and why is it necessary?**
+  It's necessary when using cloud services to ensure that infrastructures are secure and compliant with current regulations.
+
+- **What is the average cost?**
+  The average cost varies based on infrastructure complexity and required services, but generally ranges between $10,000 and $50,000.
+
+- **How do you choose the right provider?**
+  Choosing the right provider is based on technical skills, certifications, reputation, and ability to customize the service.
+
+- **What are the important certifications?**
+  Important certifications include ISO 27001, CISSP, CCSP, and specific certifications for cloud platforms like AWS, Azure, and GCP.
+
+- **What are the main benefits of a Cloud Security Assessment?**
+  Main benefits include reducing attack risk, ensuring regulatory compliance, and optimizing security configurations.
+
+- **What tools are used for Cloud Security Assessment?**
+  Tools used include CNAPP, CSPM, CWPP solutions, and security platforms like Prisma Cloud and Falcon Cloud Security.
+
+- **What are common challenges in Cloud Security Assessment?**
+  Common challenges include managing misconfigurations, protecting against unauthorized access, and ensuring regulatory compliance.
+
+- **How does Cloud Security Assessment integrate with other security solutions?**
+  Cloud Security Assessment integrates with existing security solutions through CI/CD tools, SIEM, and SOAR for a fully integrated approach.
+
+- **What are future trends in Cloud Security Assessment?**
+  Future trends include adoption of AI technologies, automation of assessments, and integration with advanced security solutions.
