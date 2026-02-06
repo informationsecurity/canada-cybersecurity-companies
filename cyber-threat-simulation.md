@@ -78,3 +78,41 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Attack Realism**     | APT techniques, ransomware scenarios, insider threats, real TTPs                  |
+| **Covered Areas**              | IT, OT, IoT, cloud, mobile, SaaS, containers, CI/CD                           |
+| **Methodology**                 | MITRE ATT&CK, red teaming, adversary emulation, purple teaming               |
+| **Detection Integration**      | SIEM, SOC, EDR, SOAR, playbook testing                                          |
+| **Remediation Support**   | Technical reports, evidence, prioritized fixes, Q&A with teams                  |
+| **Compliance**                  | DORA, ACN, ISO 27001, NIS2, OWASP, TIBER-EU                                  |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Cyber Threat Simulation (CTS)?
+It's a controlled simulation of realistic cyber attacks conducted to test company resilience, detection capabilities, and SOC readiness.
+
+### What's the difference with Penetration Testing?
+Pen Testing looks for vulnerabilities. CTS simulates compromise with advanced techniques and evaluates detection and response, not just technical exposure.
+
+### Who should conduct threat simulation?
+Companies in regulated sectors, those managing critical data or exposed to ransomware, and those wanting to test SOC effectiveness or playbooks.
+
+### How much does CTS cost in Canada in 2026?
+Between CAD 7,000 and CAD 70,000 depending on complexity, duration, and number of simulated scenarios.
+
+### Does ISGroup also provide incident response exercises?
+Yes. ISGroup simulations include live sessions with IT/SOC teams, playbook validation, and support in defining improvement plans.
+
+### How long does a simulation exercise last?
+From a few days (targeted exercise) up to 4 weeks for persistent red team with multiple scenarios (cloud, on-prem, insider).
+
+### Is it legally mandatory?
+CTS is not yet mandatory, but is required in DORA, ACN, ISO/IEC 27001 frameworks, and in high-criticality public tenders.
+
+### Can I conduct simulation without interrupting activity?
+Yes. Tests are conducted "stealth" without impacting services, but generating logs and events as if it were a real attack.
