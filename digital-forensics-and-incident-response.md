@@ -78,3 +78,35 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical expertise and certifications | Assessment of technical skills and certifications held.       |
+| Methodologies adopted           | Analysis of methodologies used for DFIR.                               |
+| Target clientele type  | Identification of the ideal target for each provider.                      |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Digital Forensics And Incident Response?
+
+Digital Forensics And Incident Response (DFIR) is a service that combines digital forensic analysis and incident response to identify, analyze, and mitigate cyber threats.
+
+### When and why is it necessary?
+
+DFIR is necessary when an organization suffers a security incident, such as a data breach or malware attack, to determine the cause, extent, and impact of the attack and to restore compromised systems.
+
+### What is the average cost?
+
+The average cost of a DFIR service varies based on the complexity of the incident and the scope of solutions required. It's important to request detailed quotes to understand specific costs.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on the organization's specific needs, the provider's technical expertise, the quality of support offered, and the ability to ensure regulatory compliance.
+
+### What are the important certifications?
+
+Important certifications for a DFIR provider include ISO 27001, SANS GCFA, GCIH, and other recognized certifications in the field of cybersecurity and digital forensics.
