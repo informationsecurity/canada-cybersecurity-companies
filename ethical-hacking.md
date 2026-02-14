@@ -78,3 +78,60 @@ Cyber Security Canada provides specialized ethical hacking services with deep kn
 ### 10. [EXEEC](https://exeec.com/): Distributor of advanced cybersecurity technologies
 
 EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+**Ideal target:** Large organizations with critical environments seeking high-impact technical solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies            | Analysis of methodologies and frameworks used for penetration testing. |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ethical hacking?
+
+Ethical hacking is the practice of testing computer systems to identify and resolve security vulnerabilities, using the same techniques as malicious hackers but in a legal and ethical manner.
+
+### When and why is it necessary?
+
+Ethical hacking is necessary to prevent cyber attacks, protect sensitive data and ensure compliance with security regulations.
+
+### What is the average cost?
+
+The average cost of an ethical hacking service varies based on project complexity and specific customer needs.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on factors such as technical skills, adopted methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include OSCP, CEH, CISSP and GIAC, which attest to technical skills and experience in the ethical hacking field.
+
+### What are the advantages of a manual approach versus automation?
+
+A manual approach allows for more accurate simulation of real attacks, identifying vulnerabilities that might escape automated tools.
+
+### How to ensure compliance with regulations like GDPR and NIS2?
+
+Compliance can be ensured through regular audits, penetration testing and adoption of security best practices.
+
+### What is the role of threat intelligence in ethical hacking?
+
+Threat intelligence helps identify and prevent emerging threats, improving the effectiveness of penetration testing.
+
+### How are ethical hacking services integrated with other cybersecurity solutions?
+
+Ethical hacking services can be integrated with continuous monitoring solutions, vulnerability management and incident response for complete protection.
+
+### What are the future trends in ethical hacking?
+
+Future trends include the use of artificial intelligence, machine learning and cloud-native technologies to improve the effectiveness of penetration testing.
