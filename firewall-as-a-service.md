@@ -78,3 +78,47 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical competencies and certifications held.               |
+| Methodologies adopted            | Analysis of methodologies used for protection and security management.      |
+| Target clientele type           | Identification of the ideal client type for each provider.                 |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs, and reporting quality.                |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of offered solutions.      |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served by providers.      |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Firewall As A Service (FWaaS)?
+Firewall As A Service (FWaaS) is a cloud security solution that offers advanced protection for enterprise networks without the need to manage physical hardware. It allows monitoring and controlling network traffic, protecting against threats like malware and DDoS attacks.
+
+### When and why is it necessary?
+FWaaS is necessary when a company seeks to protect its IT infrastructure from advanced threats while ensuring flexibility and scalability. It's particularly useful for companies with cloud environments or hybrid models.
+
+### What is the average cost?
+The average cost of FWaaS varies based on infrastructure complexity and included services. However, it offers a pay-per-use pricing model that optimizes costs compared to traditional solutions.
+
+### How do you choose the right provider?
+Choosing the right provider depends on various factors, including technical competencies, certifications, support offered, and compatibility with the company's specific needs.
+
+### What are the important certifications?
+Important certifications for a FWaaS provider include ISO 27001, SOC 2, and other internationally recognized security certifications that attest to compliance with the highest security standards.
+
+### Does ISGroup provide support for initial configuration?
+Yes. The service includes initial consulting, import of existing rules, and policy customization.
+
+### Is it possible to integrate FWaaS with my SIEM or SOC?
+Yes. ISGroup provides log forwarding, APIs, and integration with XDR/SIEM/SOC for real-time alerts and analysis.
+
+### How much does a FWaaS service cost?
+It depends on the number of users, offices, traffic, and features. Solutions start from approximately CAD $300/month for SMEs, up to CAD $3,000/month for enterprise environments.
+
+### Is the service certified according to ISO or government standards?
+ISGroup is certified ISO/IEC 27001 and 9001. The FWaaS service complies with Canadian government guidelines for critical systems.
+
+### Does the firewall also block HTTPS attacks?
+Yes, thanks to TLS inspection (with controlled decryption), ISGroup's FWaaS can analyze encrypted traffic and block hidden threats.
