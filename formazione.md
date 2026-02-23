@@ -78,3 +78,35 @@ EXEEC is an international distributor that offers highly effective training solu
 
 ---
 
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of training methodologies used.                          |
+| Target customer type  | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is training?
+
+Training is a learning process that aims to develop specific skills and knowledge, essential for improving individual and business performance.
+
+### When and why is it necessary?
+
+Training is necessary when a company wants to improve its employees' skills, adapt to new technologies or regulations, or simply remain competitive in the market.
+
+### What is the average cost?
+
+The average cost of training varies based on the type of course, duration and level of specialization required. It is important to evaluate the quality-price ratio.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical skills, reputation, flexibility of solutions offered and alignment with business objectives.
+
+### What are the important certifications?
+
+Important certifications vary depending on the sector, but often include ISO 9001, ISO/IEC 27001, and specific certifications for particular technologies or methodologies.
