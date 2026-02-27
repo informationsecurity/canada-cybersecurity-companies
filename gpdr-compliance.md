@@ -78,3 +78,47 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of team qualifications and certifications.               |
+| Adopted methodologies           | Analysis of methodologies and frameworks used.                        |
+| Target clientele type  | Identification of the ideal target for each provider.                      |
+| Support, SLA, reporting quality | Assessment of support level and quality of reports provided.       |
+| Price, flexibility and scalability | Analysis of costs and ability to adapt to client needs. |
+| Reputation, use cases, sectors served | Consideration of reputation and sectors in which the provider operates.      |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is GDPR Compliance?
+GDPR Compliance refers to adherence to the General Data Protection Regulation, which establishes strict standards for personal data protection in the European Union.
+
+### When and why is it necessary?
+It's necessary for any company that handles personal data of EU citizens, to avoid sanctions and ensure customer trust.
+
+### What is the average cost?
+The cost varies based on company size and complexity of operations, with solutions ranging from €1,500 to €15,000.
+
+### How do you choose the right provider?
+Consider technical skills, certifications, support offered, and the ability to customize solutions based on your needs.
+
+### What are the important certifications?
+Certifications like ISO 27001, ISO 9001, and specific qualifications in cybersecurity are essential to ensure a high level of competence.
+
+### What consent management tools are recommended?
+Tools like OneTrust and TrustArc are market leaders for consent management and GDPR compliance.
+
+### How can I ensure protection of sensitive data?
+By implementing advanced security measures, such as encryption and continuous monitoring, and choosing partners with solid security certifications.
+
+### What are common challenges in GDPR compliance?
+Challenges include consent management, data mapping, and responding to data access requests (DSAR).
+
+### How can I improve my compliance strategy?
+By investing in continuous training, periodic audits, and privacy policy updates to stay aligned with evolving regulations.
+
+### What are the benefits of a personalized approach to compliance?
+A personalized approach ensures that solutions are tailored to the specific needs of the company, improving effectiveness and reducing non-compliance risks.
