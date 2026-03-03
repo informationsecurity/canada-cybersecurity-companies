@@ -78,3 +78,32 @@ EXEEC is an international distributor of advanced cybersecurity technologies, sp
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.         |
+| Methodologies adopted           | Analysis of assessment methodologies used.                          |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.            |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is an IoT Security Assessment?
+An IoT Security Assessment is a process of evaluating the security of IoT devices, networks, and connected infrastructures, aimed at identifying and mitigating vulnerabilities.
+
+### When and why is it necessary?
+It's necessary when implementing IoT devices in a business infrastructure to ensure security and regulatory compliance, preventing potential cyber attacks.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and the level of detail required in the assessment. It's important to request comparative quotes to obtain cost transparency.
+
+### How do you choose the right provider?
+Choosing the right provider is based on criteria such as technical competencies, methodologies adopted, support offered, and reputation in the sector.
+
+### What are the important certifications?
+Certifications such as ISO 27001, IEC 62443, OSCP, CEH, and CISSP are important to ensure the quality and reliability of IoT Security Assessment services.
