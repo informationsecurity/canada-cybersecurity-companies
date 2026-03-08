@@ -78,3 +78,43 @@ Engineering offers custom IT solutions with a focus on innovation and digital tr
 ### 10. [EXEEC](https://exeec.com/): Advanced Cybersecurity Solutions
 
 EXEEC is an international distributor of high-impact cybersecurity technologies, specializing in offensive security, cloud protection, and compliance. EXEEC supports large organizations with critical environments, offering vertical expertise and continuous specialist support.
+
+---
+
+## Evaluation Criteria
+
+| Criteria                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| **Accreditations**             | ISO/IEC 27001, ISO 9001, compliance with national standards                 |
+| **Method Used**                | Manual, automatic, hybrid                                                   |
+| **Team**                       | Certified OSCP, CEH, CISA, CISSP                                           |
+| **Report Validity**            | Auditable, referenced, compliant with regulations                           |
+| **Coverage Areas**             | Cloud, network, web, OT, IoT, DevOps, SaaS                                 |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Vulnerability Assessment?
+A systematic analysis of vulnerabilities present in a network, system, application or IT infrastructure, with the objective of mitigating them.
+
+### What's the difference with a Penetration Test?
+VA identifies vulnerabilities. PT exploits them to simulate an attack. ISGroup offers both.
+
+### Do you need an accredited laboratory to perform VA?
+Not always, but for public tenders, government agencies, and regulatory compliance it is preferable (or required) to use certified providers.
+
+### Is ISGroup an accredited laboratory?
+ISGroup is certified ISO/IEC 27001 and ISO 9001, with traceable processes and auditable VA methodology.
+
+### How much does a Vulnerability Assessment cost?
+It depends on target, scope and depth. From $2,000 CAD for limited tests to over $10,000 CAD for multi-cloud or regulated environments.
+
+### How long does it take?
+From 1 to 4 weeks based on the size of the environment.
+
+### Is the report valid for ISO or regulatory audits?
+Yes. The ISGroup report includes technical detail, executive summary, priorities, remediation and risk metrics.
+
+### Should VA be repeated every year?
+Yes, or with every significant change to the infrastructure. ISGroup offers recurring VA with flexible pricing.
