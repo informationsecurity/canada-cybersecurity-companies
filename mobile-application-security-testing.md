@@ -78,3 +78,55 @@ EXEEC is an international distributor specialized in high-efficiency cybersecuri
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies used for mobile security testing.     |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and report quality.         |
+| Price, flexibility, and scalability | Analysis of costs, flexibility, and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.             |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Mobile Application Security Testing?
+
+Mobile Application Security Testing (MAST) is a security assessment process for mobile applications to identify and mitigate vulnerabilities.
+
+### When and why is it necessary?
+
+It's necessary when developing or using mobile applications that handle sensitive data, to ensure protection against cyber threats and regulatory compliance.
+
+### What is the average cost?
+
+The average cost varies based on application complexity and required depth level, but generally ranges between $5,000 and $20,000.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical skills, certifications, adopted methodologies, and the ability to provide continuous support and clear reporting.
+
+### What are the important certifications?
+
+Important certifications include OSCP, CEH, CISSP, and others recognized in the cybersecurity sector.
+
+### What are the advantages of a manual approach versus an automated one?
+
+A manual approach offers a more thorough and personalized vulnerability assessment, while an automated approach can be faster but less detailed.
+
+### How to integrate MAST into the development cycle?
+
+MAST can be integrated into the development cycle through DevSecOps practices, ensuring security is considered at every stage of the development process.
+
+### What are the main threats to mobile applications?
+
+Main threats include malware, phishing attacks, API vulnerabilities, and unauthorized access to sensitive data.
+
+### How to ensure regulatory compliance?
+
+Regulatory compliance can be ensured through adoption of recognized security standards, such as OWASP MASVS, and collaboration with compliance-expert providers.
+
+### What tools are used in MAST?
+
+Tools used in MAST include vulnerability scanners, static and dynamic analysis tools, and vulnerability management platforms.
