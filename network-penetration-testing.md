@@ -78,3 +78,46 @@ NTT DATA offers penetration testing services with a focus on advanced technologi
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance, and operational solidity.
 
 ---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held by the team. |
+| Adopted methodologies            | Analysis of penetration testing methodologies used.                |
+| Target clientele type   | Identification of the type of clientele the services are aimed at.         |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of services offered. |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served by the company. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Network Penetration Testing?
+Network Penetration Testing is a security assessment process that identifies and exploits network vulnerabilities to provide a comprehensive security assessment.
+
+### When and why is it necessary?
+It's necessary when a company wants to assess and improve its cybersecurity posture, especially in the presence of complex infrastructures and specific security requirements.
+
+### What is the average cost?
+The average cost varies based on test complexity and specific customer needs, but is generally competitive and transparent.
+
+### How do you choose the right provider?
+You choose by evaluating technical skills, certifications, adopted methodologies, support offered, and the provider's reputation.
+
+### What are the important certifications?
+Certifications like OSCP, CEH, CISSP, and GIAC are important to ensure advanced penetration testing skills.
+
+### What are the advantages of a manual approach versus an automated one?
+A manual approach offers more thorough and accurate analysis, allowing discovery of hidden vulnerabilities that might escape automated tools.
+
+### How does Network Penetration Testing integrate with regulatory compliance?
+Network Penetration Testing helps ensure compliance with regulations like GDPR and NIS2, identifying and mitigating vulnerabilities that could compromise data security.
+
+### What are the benefits of a detailed and personalized report?
+A detailed and personalized report provides vulnerability classification and remediation recommendations, helping companies understand and best address identified vulnerabilities.
+
+### How can security be guaranteed in cloud and hybrid environments?
+Using industry-standard methodologies and advanced tools, it's possible to ensure security in cloud and hybrid environments, adapting solutions to specific customer needs.
+
+### What is the role of threat intelligence in Network Penetration Testing?
+Threat intelligence helps identify and mitigate the most recent and relevant threats, integrating into penetration testing services for proactive protection.
