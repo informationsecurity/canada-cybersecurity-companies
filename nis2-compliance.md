@@ -78,3 +78,50 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 ---
 
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held.      |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for compliance.      |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.         |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is NIS2 Compliance?
+NIS2 Compliance refers to conformity with the NIS2 directive, which establishes security requirements for networks and information systems of companies.
+
+### When and why is it necessary?
+It is necessary to ensure the security of critical infrastructures and protect sensitive data from cyber threats.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and required services, but it's important to consider the value of protection offered.
+
+### How do you choose the right supplier?
+Choosing the right supplier is based on technical competencies, experience, certifications and ability to offer tailor-made solutions.
+
+### What are the important certifications?
+Important certifications include ISO 27001, SOC2, GDPR and others internationally recognized for cybersecurity.
+
+### Does ISGroup provide managed services (SOC, vCISO)?
+Yes. To ensure H24 continuity and practical support for technical and strategic compliance.
+
+### How long does a NIS2 project take?
+From 4 to 12 weeks based on size, maturity and urgency. Possibility of phased roadmaps.
+
+### How much does it cost?
+Starting from ~$7,000 CAD for gap analysis and roadmap. Complete projects from $20,000 CAD and up for essential subjects.
+
+### Does ISGroup support incident notification?
+Yes. It provides process, tabletop simulations, playbooks and documentation for notification within 24h.
+
+### Does the project also cover the supply chain?
+Yes. ISGroup analyzes the IT supply chain and suggests measures to reduce risk.
+
+### Do you need to redo compliance every year?
+It must be maintained: ISGroup proposes annual check-ups, updates and continuous monitoring.
