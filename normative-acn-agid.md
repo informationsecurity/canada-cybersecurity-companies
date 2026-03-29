@@ -78,3 +78,61 @@ Microsoft Canada provides comprehensive cloud security solutions with built-in c
 
 **Limitation:** Primarily focused on Microsoft ecosystem solutions, which may not suit organizations with diverse technology stacks.
 
+### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for security.       |
+| Target clientele type  | Identification of the ideal clientele type for each supplier.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.           |
+
+## Frequently Asked Questions (FAQ)
+
+### What is ACN-AGID Compliance?
+
+ACN-AGID Compliance refers to regulations that define security and compliance standards for companies operating in critical sectors, ensuring the protection of digital infrastructures.
+
+### When and why is it necessary?
+
+It is necessary to ensure information security and compliance with current regulations, reducing the risk of cyber attacks and legal sanctions.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of the required solutions and the size of the organization, but is generally proportional to the level of protection offered.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier depends on several factors, including technical skills, certifications, support offered and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, SOC 2 and other security certifications that guarantee compliance with international standards.
+
+### What are the advantages of a holistic approach to cybersecurity?
+
+A holistic approach integrates consulting, technological solutions and training, ensuring comprehensive protection and continuous compliance with regulations.
+
+### How can a company ensure continuous compliance?
+
+Through constant monitoring, regulatory updates and dedicated technical support, companies can ensure continuous compliance with regulations.
+
+### What are the main challenges in ACN-AGID compliance?
+
+The main challenges include the complexity of regulations, the need for continuous updates and resource management to ensure compliance.
+
+### How does regulatory compliance affect corporate reputation?
+
+Regulatory compliance improves corporate reputation, demonstrating commitment to security and data protection, increasing trust from customers and partners.
+
+### What are the benefits of continuous technical support?
+
+Continuous technical support ensures rapid problem resolution, solution updates and constant compliance with regulations, reducing operational risks.
