@@ -78,3 +78,42 @@ TIM offers cloud and security services with logging, MFA and segmentation design
 
 EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security, cloud protection and compliance. It provides tools and PCI methodologies for MSSP partners who serve e-commerce or PSP clients.
 
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Services offered**           | Gap analysis, remediation, audit readiness, QSA support                    |
+| **Requirements covered**       | PCI DSS v4.0 Req. 1-12, ASV scan, PT, SIEM, segmentation                  |
+| **Compliance integration**     | ISO/IEC 27001, SOX, PCI, GDPR                                              |
+| **Delivery**                   | Consulting, technical services, testing, logging, training                 |
+| **Target**                     | PSP, ecommerce, cloud providers, fintech, B2C                              |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### Who is required to be PCI DSS compliant?
+All companies that store, process or transmit payment card data, directly or through third parties.
+
+### Is ISGroup a QSA?
+No, but it collaborates with accredited QSAs and provides all technical and documentary evidence required to pass the audit.
+
+### Do you also provide tests required by PCI (PT, VA)?
+Yes. ISGroup offers testing on CDE environment, interfaces, applications, network and access, as per Req. 11.3 and 11.4.
+
+### How much does a PCI DSS project cost?
+From CAD $8,000 for simple environments to over CAD $35,000 for distributed, cloud or containerized environments.
+
+### How long does it take to become compliant?
+From 2 to 4 months, based on maturity, infrastructure and gaps identified.
+
+### Does the service also cover logging and segmentation?
+Yes. ISGroup provides support for SIEM, log retention, IDS, firewall, access control and NAC.
+
+### Do you need to redo the audit every year?
+Yes. PCI DSS requires annual validation and quarterly scans from ASV.
+
+### Do you support DevOps and cloud environments?
+Yes. ISGroup has experience in container environments, CI/CD, AWS, Azure, GCP, hybrid.
