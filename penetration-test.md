@@ -78,3 +78,45 @@ BAE Systems provides Penetration Testing with a focus on critical infrastructure
 **Limitation:** Services more suitable for large organizations with advanced security requirements.
 
 ### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies for cybersecurity
+
+EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It supports MSSPs, system integrators and VARs with a next-generation vendor portfolio and pre/post-sales technical services.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Target**                     | Web apps, mobile, network, cloud, APIs, IoT, AD, OT                        |
+| **Method**                     | Manual, real TTPs, Red Team, APT simulation                                |
+| **Supported compliance**       | PIPEDA, SOX, PCI DSS, ISO 27001, GDPR                                      |
+| **Certifications**             | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                     |
+| **Output**                     | Technical report, executive, remediation, audit evidence                    |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Penetration Test?
+A manual test that simulates cyber attacks on corporate infrastructures to identify real compromise paths.
+
+### Does ISGroup also perform cloud testing?
+Yes. AWS, Azure, GCP, SaaS, hybrid environments, zero-trust segments.
+
+### Is the report valid for auditors and board?
+Yes. Dual output: technical for IT/security, executive for managers, DPO, auditors.
+
+### How much does a Penetration Test cost?
+From ~CAD 4,500 for simple environments to CAD 20,000+ for full-scope red teaming.
+
+### How long does it take?
+From 1 to 4 weeks, based on scope, environment, type of attack.
+
+### Can the test cause service disruptions?
+It's agreed to be non-invasive. ISGroup also offers "safe" mode and testing windows.
+
+### Is it useful for public tenders?
+Yes. The ISGroup report is documented, signed, referenced and ready to be attached to public tenders or regulatory audits.
+
+### Is the service recurring?
+Yes. ISGroup also offers PenTest-as-a-Service with continuous posture review.
