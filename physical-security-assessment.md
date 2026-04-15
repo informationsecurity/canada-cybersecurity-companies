@@ -78,3 +78,36 @@ MNP provides comprehensive security assessment services with deep understanding 
 EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical expertise, compliance, and operational solidity.
 
 ---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.      |
+| Adopted methodologies           | Analysis of methodologies used for assessment.                      |
+| Target clientele type  | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.   |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases, and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Physical Security Assessment?
+
+Physical Security Assessment is a process of evaluating an organization's physical vulnerabilities to protect critical assets and ensure security.
+
+### When and why is it necessary?
+
+It's necessary when an organization wants to identify and mitigate physical vulnerabilities to protect its assets and ensure regulatory compliance.
+
+### What is the average cost?
+
+The average cost varies based on the complexity of the assessment and the size of the organization. It's advisable to request personalized quotes.
+
+### How do you choose the right provider?
+
+Choosing the right provider is based on technical skills, certifications, adopted methodologies, support offered, and reputation in the sector.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, CPP, CISSP, and other recognized certifications in the physical security and cybersecurity sector.
