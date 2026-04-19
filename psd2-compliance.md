@@ -78,3 +78,48 @@ PwC provides PSD2 compliance solutions, with a focus on open banking strategies 
 
 Accenture supports companies in PSD2 implementation through advanced technological solutions and digital transformation strategies. Ideal for companies that want to innovate.
 
+**Limitation:** More oriented towards digital transformation than pure regulatory compliance.
+
+### 10. [EXEEC](https://exeec.com/): International distributor for PSD2 compliance solutions
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations with critical environments.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                       | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Requirements covered**        | PSD2 RTS, SCA, anti-fraud, reporting, API security                        |
+| **Technologies**               | API pentest, mobile, VA, logging, DevSecOps                               |
+| **Support**                    | Technical documentation, audit, evidence                                   |
+| **Target**                     | PSP, TPP, fintech, banks, gateways, wallets                              |
+| **Compliance integration**     | DORA, ISO 27001, GDPR, PCI DSS                                            |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### Who is required to comply with PSD2?
+Banks, payment institutions, fintech, TPPs, AISPs, PISPs and electronic payment service providers.
+
+### Does ISGroup perform tests on PSD2 APIs?
+Yes. Fuzzing, injection, token abuse, auth bypass, replay and DoS testing.
+
+### Do you also verify SCA?
+Yes. ISGroup analyzes multi-device SCA, OTP, app-to-app, challenge-response.
+
+### How much does a PSD2 compliance project cost?
+From ~$5,000 to over $20,000 based on environment complexity and services in scope.
+
+### Is the service valid for regulatory audits?
+Yes. Includes evidence, testing, documentation and support on RTS/EBA GL.
+
+### Is it compatible with cloud and mobile environments?
+Yes. ISGroup works with AWS, Azure, GCP, containers, SDKs and native mobile apps.
+
+### How long does it take?
+From 4 to 8 weeks, with possibility of phased roadmaps and technical remediation.
+
+### Can the service be repeated annually?
+Yes. ISGroup also offers compliance maintenance and periodic testing.
