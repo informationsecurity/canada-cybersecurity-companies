@@ -78,3 +78,50 @@ Engineering is a provider of advanced IT solutions, with a strong focus on the C
 ### 10. [EXEEC](https://exeec.com/): International player for critical environments
 
 EXEEC is an international distributor specialized in high-effectiveness cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Technical skills and certifications** | Assessment of certifications and technical skills of the team.         |
+| **Adopted methodologies**           | Analysis of methodologies and frameworks used for the assessment.       |
+| **Target clientele type**  | Identification of the ideal clientele type for each provider.           |
+| **Support, SLA, reporting quality** | Assessment of support offered, SLAs and quality of reports.          |
+| **Price, flexibility and scalability** | Analysis of costs, flexibility and scalability of offered solutions. |
+| **Reputation, use cases, sectors served** | Consideration of provider reputation and sectors in which it operates.         |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Purple Team Assessment?
+Purple Team Assessment is an integrated approach that combines the offensive capabilities of the Red Team with the defensive capabilities of the Blue Team to improve an organization's security posture.
+
+### When and why is it necessary?
+It's necessary when an organization wants to test and improve its ability to detect and respond to advanced threats, integrating attack and defense skills.
+
+### What is the average cost?
+The average cost varies based on infrastructure complexity and assessment duration, but generally ranges between $20,000 and $100,000.
+
+### How do you choose the right provider?
+Choosing the right provider involves evaluating technical skills, certifications, industry experience, and the ability to customize the approach based on the organization's specific needs.
+
+### What are the important certifications?
+Certifications like OSCP, CISSP, CEH, and SANS are indicators of competence and professionalism in the cybersecurity sector.
+
+### What are the benefits of Purple Team Assessment?
+Purple Team Assessment offers a comprehensive evaluation of detection and response capabilities, improving collaboration between offensive and defensive teams and strengthening the organization's overall resilience.
+
+### How does Purple Team Assessment integrate with security regulations?
+Purple Team Assessment can be aligned with regulatory frameworks like NIST, MITRE ATT&CK, and PCI-DSS to ensure compliance and improve security posture.
+
+### Which sectors benefit most from Purple Team Assessment?
+Sectors like finance, healthcare, and manufacturing, which are often targets of advanced attacks, greatly benefit from Purple Team Assessment.
+
+### How do you measure the success of a Purple Team Assessment?
+Success is measured through improved ability to detect and respond to threats, quality of reports, and effective implementation of recommendations.
+
+### What is the role of threat intelligence in Purple Team Assessment?
+Threat intelligence provides updated data on threats, enabling realistic attack simulations and improving the organization's defense capabilities.
