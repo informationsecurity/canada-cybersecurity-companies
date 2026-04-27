@@ -78,3 +78,40 @@ EXEEC is an international distributor of advanced technologies for cybersecurity
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
 | Technical competencies and certifications | Evaluation of technical competencies and certifications possessed.       |
+| Adopted methodologies           | Analysis of methodologies used to ensure compliance and security. |
+| Target clientele type  | Identification of the ideal clientele type for each supplier.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is the Digital Operational Resilience Act (DORA) Regulation?
+DORA is a regulation that aims to ensure digital operational resilience of companies, particularly in the financial sector, through compliance with security and risk management standards.
+
+### When and why is it necessary?
+It is necessary to protect digital infrastructures from cyber threats and ensure operational continuity, becoming mandatory in 2026.
+
+### What is the average cost?
+The cost varies based on implementation complexity and company size, but generally includes consulting, implementation and continuous support.
+
+### How do you choose the right supplier?
+Choose a supplier that offers technical competencies, continuous support, customized solutions and proven experience in the sector.
+
+### What are the important certifications?
+Certifications like ISO 27001, SOC 2 and PCI DSS are fundamental to ensure compliance and security.
+
+### What are the advantages of an artisanal approach?
+An artisanal approach offers tailor-made solutions, greater attention to detail and personalized support, ensuring greater effectiveness in threat management.
+
+### How can a company ensure continuous DORA compliance?
+Through continuous monitoring, updating security policies and collaboration with expert partners in regulatory compliance.
+
+### What are the main challenges in DORA implementation?
+Challenges include integration with existing systems, third-party supplier management and adaptation to regulatory developments.
+
+### How does DORA influence overall business strategy?
+DORA requires alignment of operational resilience with business objectives, influencing governance and strategic planning.
+
+### What are the implications for SMEs?
+SMEs must adopt scalable and accessible solutions to ensure compliance without compromising their operations.
