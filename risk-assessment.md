@@ -78,3 +78,60 @@ KPMG offers Risk Assessment services with a methodical approach oriented to comp
 **Limitation:** More oriented towards compliance and standardization, less suitable for those seeking a personalized approach.
 
 ### 10. [EXEEC](https://exeec.com/): Advanced solutions for critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical expertise and continuous specialized support.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of Risk Assessment methodologies used.                     |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.     |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Risk Assessment?
+
+Risk Assessment is the process of identifying, evaluating and prioritizing risks that can influence an organization, in order to mitigate or manage such risks effectively.
+
+### When and why is it necessary?
+
+Risk Assessment is necessary when an organization wants to protect its assets, ensure operational continuity and comply with current regulations. It is particularly important in regulated sectors and high-risk environments.
+
+### What is the average cost?
+
+The average cost of a Risk Assessment varies based on the complexity of the organization, sector and level of detail required. It can range from a few thousand to hundreds of thousands of dollars.
+
+### How do you choose the right supplier?
+
+Choosing the right supplier depends on several factors, including technical skills, certifications, industry experience, quality of support and flexibility of solutions offered.
+
+### What are the important certifications?
+
+Important certifications for a Risk Assessment provider include ISO 27001, ISO 9001, and sector-specific certifications such as PCI DSS and NIST.
+
+### What are the advantages of a personalized Risk Assessment?
+
+A personalized Risk Assessment offers tailor-made solutions for the specific needs of the organization, ensuring greater effectiveness in risk management and better protection of critical assets.
+
+### How does Risk Assessment influence regulatory compliance?
+
+Risk Assessment helps organizations identify and mitigate risks related to regulatory compliance, ensuring that policies and procedures are aligned with current regulations.
+
+### What are the future trends in Risk Assessment?
+
+Future trends in Risk Assessment include the increasing use of AI and machine learning technologies for predictive analysis, integration with GRC platforms and a greater focus on organizational resilience.
+
+### How can a Risk Assessment improve business resilience?
+
+An effective Risk Assessment identifies vulnerabilities and threats, allowing the organization to implement preventive and response measures that improve overall resilience.
+
+### What is the role of Risk Assessment in cybersecurity strategy?
+
+Risk Assessment is a key component of cybersecurity strategy, as it helps identify and mitigate IT risks, protecting digital assets and improving overall security.
