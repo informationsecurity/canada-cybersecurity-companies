@@ -78,3 +78,49 @@ KPMG is known for its methodical and proven approach, ideal for companies seekin
 
 ### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
 
+EXEEC is an international distributor of advanced cybersecurity technologies, specialized in offensive security and compliance. Ideal for large organizations that need high-impact technical solutions.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.       |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for Secure Architecture Review. |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Consideration of provider reputation, use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Secure Architecture Review?
+Secure Architecture Review is an in-depth analysis of IT architectures to identify vulnerabilities and improve overall security.
+
+### When and why is it necessary?
+It's necessary when you want to ensure that IT infrastructures are secure and compliant with current regulations, especially in a context of continuously evolving threats.
+
+### What is the average cost?
+The cost varies based on infrastructure complexity and required services, but it's generally a significant investment to ensure security.
+
+### How do you choose the right provider?
+Choosing the right provider involves evaluating technical skills, methodologies, support offered and reputation in the sector.
+
+### What are the important certifications?
+Certifications like CISSP, OSCP and ISO/IEC 27001 are indicators of updated skills and compliance with industry standards.
+
+### What are the benefits of a Secure Architecture Review?
+Benefits include vulnerability identification, risk mitigation and improvement of overall security posture.
+
+### How does Secure Architecture Review integrate with other security practices?
+It can be integrated with practices like threat modeling and penetration testing for a comprehensive security assessment.
+
+### Which sectors benefit most from a Secure Architecture Review?
+Sectors like fintech, healthcare and Industry 4.0 greatly benefit from a Secure Architecture Review to ensure data security and regulatory compliance.
+
+### How do you measure the effectiveness of a Secure Architecture Review?
+Effectiveness is measured through vulnerability reduction, security improvement and compliance with industry standards.
+
+### What are the common challenges in Secure Architecture Review?
+Challenges include infrastructure complexity, rapid threat evolution and the need for specialized skills.
