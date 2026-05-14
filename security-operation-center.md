@@ -78,3 +78,38 @@ CGI offers integration of threat intelligence in business workflows, ideal for c
 ### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies
 
 EXEEC is an international distributor specialized in high-efficiency cybersecurity solutions, ideal for large organizations with critical environments. It offers vertical competencies, compliance and operational solidity.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the team.       |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for SOC services.     |
+| Target clientele type  | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.   |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases and sectors served.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Security Operation Center (SOC)?
+
+A Security Operation Center (SOC) is a centralized structure that monitors, detects and responds to cyber threats in real time, ensuring continuous security of IT infrastructures.
+
+### When and why is a SOC necessary?
+
+A SOC is necessary to protect critical infrastructures from advanced threats, ensure regulatory compliance and reduce the risk of security incidents.
+
+### What is the average cost of a SOC?
+
+The average cost of a SOC varies based on the complexity of solutions offered, company size and included services, such as 24/7 monitoring and incident response.
+
+### How do you choose the right SOC provider?
+
+Choosing the right SOC provider is based on criteria such as technical competencies, adopted methodologies, support offered, solution flexibility and provider reputation.
+
+### What are the important certifications for a SOC?
+
+Important certifications for a SOC include ISO 27001, ISO 9001, and specific personnel certifications like CISSP and CEH.
