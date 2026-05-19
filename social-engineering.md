@@ -78,3 +78,52 @@ EXEEC is an international distributor specialized in cybersecurity solutions for
 ## Evaluation Criteria
 
 | Criterion                        | Description                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Evaluation of technical skills and certifications held.       |
+| Methodologies adopted            | Analysis of security methodologies used.                           |
+| Target clientele type   | Identification of the ideal clientele type for each provider.          |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.    |
+| Reputation, use cases, sectors served | Evaluation of reputation, use cases, and sectors served.          |
+
+## Frequently Asked Questions (FAQ)
+
+### What is social engineering?
+
+Social engineering is a psychological manipulation technique used to deceive people and obtain confidential information or access to computer systems.
+
+### When and why is it necessary?
+
+It is necessary when you want to evaluate an organization's resilience to social engineering-based attacks and improve employee awareness.
+
+### What is the average cost?
+
+The average cost varies based on service complexity and organization size, but generally ranges between $5,000 and $50,000.
+
+### How do you choose the right provider?
+
+You choose by evaluating technical skills, certifications, methodology adopted, support offered, and provider reputation.
+
+### What are the important certifications?
+
+Important certifications include OSCP, CEH, CISSP, which attest to skills in ethical hacking and cybersecurity.
+
+### What are the ethical alternatives to offensive social engineering?
+
+Ethical alternatives include authorized simulations, awareness training, and human vulnerability assessments, all designed to improve security without compromising ethics.
+
+### How can cybersecurity awareness be improved?
+
+Through continuous training programs, phishing simulations, and awareness campaigns that involve all levels of the organization.
+
+### What are the legal risks associated with social engineering?
+
+Legal risks include privacy and regulatory violations, which can lead to sanctions and reputational damage.
+
+### How can social engineering be integrated into a security program?
+
+By integrating it with other security measures such as penetration testing, employee training, and implementation of rigorous security policies.
+
+### What are the best practices for social engineering attack simulation?
+
+Best practices include obtaining informed consent, ensuring transparency, and focusing on training and awareness rather than deception.
