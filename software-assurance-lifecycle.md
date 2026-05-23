@@ -78,3 +78,51 @@ CGI offers technology solutions for Software Assurance Lifecycle, with a focus o
 
 **Limitation:** More oriented towards technology solutions, less suitable for those seeking a manual and artisanal approach.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures.
+
+---
+
+## Evaluation criteria
+
+| Criterion                          | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held.     |
+| Adopted methodologies              | Analysis of methodologies used for Software Assurance Lifecycle.   |
+| Target clientele type     | Identification of the ideal target for each supplier.                    |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of solutions.  |
+| Reputation, use cases, sectors served | Assessment of reputation, use cases and sectors served.       |
+
+## Frequently Asked Questions (FAQ)
+
+1. **What is Software Assurance Lifecycle?**
+   Software Assurance Lifecycle is a process that covers all phases of the software lifecycle, from design to decommissioning, to ensure security and compliance.
+
+2. **When and why is it necessary?**
+   It is necessary to protect business applications and data from cyber threats and to ensure compliance with industry regulations.
+
+3. **What is the average cost?**
+   The average cost varies based on the complexity of solutions and the specific needs of the company.
+
+4. **How do you choose the right supplier?**
+   Choosing the right supplier depends on the specific needs of the company, the technical skills of the supplier and the quality of support offered.
+
+5. **What are the important certifications?**
+   Important certifications include ISO 27001, PCI DSS, and other internationally recognized security certifications.
+
+6. **What are the benefits of a DevSecOps approach?**
+   A DevSecOps approach integrates security into every phase of software development, improving efficiency and reducing risks.
+
+7. **How do you measure the effectiveness of Software Assurance Lifecycle?**
+   Effectiveness can be measured through security metrics, audits and continuous assessments.
+
+8. **What are the best practices for SAL management?**
+   Best practices include adopting international standards, continuous staff training and implementing integrated solutions.
+
+9. **What is the role of threat intelligence in SAL?**
+   Threat intelligence helps identify and mitigate emerging threats, improving overall software security.
+
+10. **How do you integrate security into the software lifecycle?**
+    Security can be integrated through methodologies like Secure SDLC and adopting security frameworks like OWASP SAMM.
