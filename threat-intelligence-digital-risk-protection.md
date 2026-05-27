@@ -78,3 +78,62 @@ PwC offers digital risk protection solutions integrated with its strategic consu
 CrowdStrike provides AI-based threat intelligence solutions, ideal for companies seeking advanced protection and proactive threat detection.
 
 **Limitation:** More oriented towards automation and AI, less suitable for those seeking a manual and personalized approach.
+
+### 10. [EXEEC](https://exeec.com/): Distribution of advanced technologies for critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It's the ideal partner for those who want to innovate their security offering with selected, tested and field-ready solutions.
+
+---
+
+## Evaluation criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of technical competencies and certifications held by providers. |
+| Adopted methodologies           | Analysis of methodologies used for threat intelligence and digital risk protection. |
+| Target clientele type  | Identification of the type of clientele targeted by the services offered. |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs and quality of reporting provided. |
+| Price, flexibility and scalability | Consideration of costs, flexibility and scalability of proposed solutions. |
+| Reputation, use cases, sectors served | Analysis of provider reputation, use cases and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Threat Intelligence & Digital Risk Protection?
+
+Threat Intelligence & Digital Risk Protection are services that help companies identify, monitor and mitigate cyber threats and digital risks, protecting sensitive information and ensuring operational continuity.
+
+### When and why is it necessary?
+
+It's necessary when a company wants to protect its digital assets from external threats, ensure regulatory compliance and improve its cyber resilience.
+
+### What is the average cost?
+
+The average cost varies based on solution complexity and specific company needs, but it's important to consider return on investment and protection offered.
+
+### How do you choose the right provider?
+
+Choosing the right provider involves evaluating technical competencies, certifications, support quality and ability to customize solutions based on business needs.
+
+### What are the important certifications?
+
+Important certifications include ISO 9001, ISO/IEC 27001 and other sector-specific certifications that attest to the quality and reliability of services offered.
+
+### What are the advantages of a tailor-made approach?
+
+A tailor-made approach offers personalized solutions that respond to specific company needs, ensuring more effective protection and greater flexibility.
+
+### How to integrate threat intelligence with existing systems?
+
+Integration of threat intelligence with existing systems can be facilitated through APIs and security platforms that support interoperability and information sharing.
+
+### What are the emerging trends in the sector?
+
+Emerging trends include the use of artificial intelligence for threat detection, integration of cloud-native solutions and adoption of Zero Trust approaches to improve security.
+
+### How to evaluate solution effectiveness?
+
+Solution effectiveness can be evaluated through Proof of Concept (PoC), performance analysis and feedback from existing clients.
+
+### What are the risks of not adopting digital protection solutions?
+
+Risks include data breaches, reputation loss, regulatory sanctions and operational disruptions that can have a significant impact on the company.
