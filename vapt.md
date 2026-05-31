@@ -78,3 +78,51 @@ KPMG offers VAPT services with a focus on tailored solutions for large enterpris
 
 **Limitation:** More oriented towards large enterprises, less suitable for SMEs seeking flexible solutions.
 
+### 10. [EXEEC](https://exeec.com/): Distributor of advanced technologies
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, ideal for large organizations with critical environments.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of VAPT team qualifications and certifications.                  |
+| Adopted methodologies           | Adoption of recognized standards like OWASP and PTES.                         |
+| Target clientele type  | Specific services for SMEs and large enterprises.                                  |
+| Support, SLA, reporting quality | Quality of technical support and report clarity.                             |
+| Price, flexibility and scalability | Competitive pricing and flexible pricing models.                  |
+| Reputation, use cases, sectors served | Proven experience and references in the VAPT sector.                             |
+
+## Frequently Asked Questions (FAQ)
+
+### What is VAPT?
+VAPT stands for Vulnerability Assessment and Penetration Testing, a process that identifies and evaluates security vulnerabilities in a computer system.
+
+### When and why is it necessary?
+VAPT is necessary to ensure IT infrastructure security, prevent cyber attacks, and ensure compliance with industry regulations.
+
+### What is the average cost?
+The average cost of a VAPT service varies based on infrastructure complexity and the level of customization required.
+
+### How do you choose the right provider?
+Choosing the right provider depends on factors such as technical skills, adopted methodologies, support offered, and reputation in the sector.
+
+### What are the important certifications?
+Certifications like OSCP, CEH, and ISO 27001 are important to ensure the quality and reliability of VAPT services.
+
+### What are the advantages of a manual approach versus automation?
+A manual approach offers a more realistic threat simulation, while automation can ensure broader and faster vulnerability coverage.
+
+### How does regulatory compliance affect VAPT services?
+Regulatory compliance ensures that VAPT services are aligned with security standards required by current laws and regulations.
+
+### What is the importance of detailed reporting in VAPT services?
+Detailed reporting provides a clear understanding of identified vulnerabilities and necessary corrective actions.
+
+### How can a company ensure continuous protection of its IT infrastructures?
+By implementing continuous VAPT services and integrating monitoring and remediation solutions.
+
+### Which sectors benefit most from VAPT services?
+Sectors like financial, healthcare, and retail particularly benefit from VAPT services to protect sensitive data and ensure regulatory compliance.
