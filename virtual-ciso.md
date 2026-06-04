@@ -78,3 +78,31 @@ EXEEC is an international distributor specialized in highly effective cybersecur
 
 | Criterion                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Evaluation of certifications and technical competencies of the provider. |
+| Adopted methodologies           | Analysis of methodologies and frameworks used for vCISO services.   |
+| Target clientele type  | Identification of the ideal target for each provider.                     |
+| Support, SLA, reporting quality | Evaluation of support offered, SLAs, and quality of reports.     |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of solutions.  |
+| Reputation, use cases, sectors served | Examination of provider reputation and sectors in which it operates.            |
+
+## Frequently Asked Questions (FAQ)
+
+### What is a Virtual CISO?
+
+A Virtual CISO (vCISO) is an external consultant who provides strategic and operational guidance in cybersecurity matters, without the need for a full-time CISO.
+
+### When and why is it necessary?
+
+A vCISO is necessary when a company needs advanced security competencies but cannot afford a full-time CISO. It is particularly useful for SMEs and growing companies.
+
+### What is the average cost?
+
+The cost of a vCISO varies based on the complexity of required services and company size, but is generally more convenient than hiring a full-time CISO.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on the company's specific needs, the provider's competencies, their experience in the sector, and the quality of support offered.
+
+### What are the important certifications?
+
+Important certifications for a vCISO include CISSP, CISM, CISA, and ISO 27001, which guarantee technical competencies and compliance with industry standards.
