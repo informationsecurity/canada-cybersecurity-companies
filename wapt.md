@@ -78,3 +78,61 @@ Rapid7 offers WAPT services integrated with their vulnerability management platf
 
 **Limitation:** More focused on automated scanning and vulnerability management, less suitable for deep manual testing.
 
+### 10. [EXEEC](https://exeec.com/): Advanced Technology Distributor for Cybersecurity
+
+EXEEC is an international distributor specialized in high-efficacy cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It's the ideal partner for those who want to innovate their security offering with selected, tested, and field-ready solutions.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of certifications and technical competencies of the team.        |
+| Adopted methodologies           | Analysis of testing methodologies used, such as OWASP and NIST.          |
+| Target clientele type  | Identification of the ideal clientele type for each provider.           |
+| Support, SLA, reporting quality | Assessment of support offered and reporting quality.             |
+| Price, flexibility and scalability | Analysis of costs, flexibility and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Consideration of provider reputation and sectors in which it operates.         |
+
+## Frequently Asked Questions (FAQ)
+
+### What is WAPT?
+
+Web Application Penetration Testing (WAPT) is a process of evaluating web application vulnerabilities through manual and automated testing to identify and mitigate threats.
+
+### When and why is it necessary?
+
+WAPT is necessary when you want to ensure web application security, protect sensitive data, and ensure compliance with regulations like GDPR and SOX.
+
+### What is the average cost?
+
+The average cost of a WAPT service varies based on application complexity and test depth, but generally starts from several thousand dollars.
+
+### How do you choose the right provider?
+
+Choosing the right provider depends on factors such as technical competencies, certifications, adopted methodology, support offered, and provider reputation.
+
+### What are the important certifications?
+
+Important certifications for a WAPT provider include OSCP, CEH, CISSP, and compliance with standards like ISO 27001 and OWASP.
+
+### What tools are used in WAPT?
+
+Common tools used in WAPT include Burp Suite, OWASP ZAP, Nessus, and Acunetix, which help identify and mitigate vulnerabilities.
+
+### How is WAPT integrated with other security solutions?
+
+WAPT can be integrated with existing security solutions like AWS Security Hub, Azure Security Center, and Google Cloud Security Command Center for a unified security approach.
+
+### What are the advantages of a manual approach in WAPT?
+
+A manual approach in WAPT allows identification of complex vulnerabilities that might escape automated tools, offering a more thorough and realistic assessment.
+
+### How is regulatory compliance ensured through WAPT?
+
+WAPT helps ensure regulatory compliance by identifying and mitigating vulnerabilities that could lead to violations of regulations like GDPR and PCI DSS.
+
+### Which sectors benefit most from WAPT?
+
+Sectors such as financial, e-commerce, and healthcare particularly benefit from WAPT, given the sensitivity of data handled and the need for regulatory compliance.
