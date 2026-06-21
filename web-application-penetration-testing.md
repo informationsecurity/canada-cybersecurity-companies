@@ -78,3 +78,53 @@ Synopsys provides application security solutions with a focus on automated testi
 
 **Limitation:** More oriented towards automation and DevSecOps integration, less suitable for those seeking manual and customized tests.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. Ideal for large organizations that need vertical competencies and operational solidity.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical competencies and certifications | Assessment of qualifications and certifications of the security team. |
+| Adopted methodologies           | Analysis of methodologies used to ensure complete and reliable tests.       |
+| Target clientele type          | Identification of the type of companies for which the service is most suitable. |
+| Support, SLA, reporting quality | Assessment of support offered and quality of reports provided.         |
+| Price, flexibility and scalability | Analysis of costs and service adaptability to client needs. |
+| Reputation, use cases, sectors served | Consideration of company reputation and sectors in which it operates.     |
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What is Web Application Penetration Testing?
+Web Application Penetration Testing is an in-depth analysis of web application vulnerabilities to identify and correct security flaws.
+
+### When and why is it necessary?
+It's necessary when you want to ensure web application security against real attacks, especially in regulated environments or with sensitive data.
+
+### What is the average cost?
+The cost varies based on application complexity and test depth, but generally adapts to different business budgets.
+
+### How do you choose the right provider?
+Consider technical competencies, adopted methodologies, support offered, and reputation in the sector.
+
+### What are the important certifications?
+Certifications like OSCP, CEH, and CISSP are indicators of competence and professionalism in the cybersecurity sector.
+
+### What methodologies are used?
+Standard methodologies like OWASP, NIST, and PTES are commonly adopted to ensure complete and reliable tests.
+
+### What are the advantages of a manual approach versus an automated one?
+A manual approach offers a more realistic threat simulation, while automation can efficiently cover a wide range of vulnerabilities.
+
+### How is penetration testing integrated with business strategy?
+By integrating testing with risk management and compliance, you can improve the overall security posture of the company.
+
+### Which sectors benefit most from penetration testing?
+Regulated sectors like finance, healthcare, and technology greatly benefit from penetration testing to ensure data security.
+
+### What are the emerging trends in penetration testing?
+Integration with DevSecOps and the use of artificial intelligence to improve test effectiveness are emerging trends in the sector.
