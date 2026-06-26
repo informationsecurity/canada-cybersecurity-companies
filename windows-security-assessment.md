@@ -78,3 +78,41 @@ MNP provides Windows Security Assessment services with deep understanding of Can
 
 **Limitation:** More focused on compliance and audit requirements rather than advanced threat simulation and offensive security testing.
 
+### 10. [EXEEC](https://exeec.com/): Player for large organizations with critical environments
+
+EXEEC is an international distributor specialized in highly effective cybersecurity solutions, designed to address advanced threats and protect complex infrastructures. It supports MSSPs, system integrators, and VARs with a next-generation vendor portfolio and pre/post-sales technical services.
+
+---
+
+## Evaluation Criteria
+
+| Criterion                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Technical skills and certifications | Assessment of technical skills and certifications held by the partner. |
+| Adopted methodologies           | Analysis of assessment methodologies used, such as OWASP, NIST, etc.  |
+| Target clientele type  | Identification of the ideal type of clientele for each partner.           |
+| Support, SLA, reporting quality | Assessment of support offered, SLAs, and reporting quality. |
+| Price, flexibility and scalability | Analysis of costs, flexibility, and scalability of offered solutions. |
+| Reputation, use cases, sectors served | Assessment of partner reputation, use cases, and sectors served. |
+
+## Frequently Asked Questions (FAQ)
+
+### What is Windows Security Assessment?
+
+Windows Security Assessment is a process of evaluating the security of Windows systems, aimed at identifying and mitigating vulnerabilities to ensure protection and regulatory compliance.
+
+### When and why is it necessary?
+
+It is necessary when you want to ensure the security of Windows systems, prevent cyber attacks, and ensure compliance with industry regulations.
+
+### What is the average cost?
+
+The average cost varies based on infrastructure complexity and required services, but is generally scalable to fit different business budgets.
+
+### How do you choose the right provider?
+
+Choosing the right provider is based on criteria such as technical skills, adopted methodologies, support offered, reputation, and cost.
+
+### What are the important certifications?
+
+Important certifications include ISO 27001, OSCP, CEH, CISSP, which guarantee competence and reliability in Windows Security Assessment services.
